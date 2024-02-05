@@ -1,5 +1,6 @@
 """A script to test different aspects of the telewater bot."""
 
+
 import asyncio
 import os
 from typing import List
